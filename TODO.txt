@@ -1,0 +1,8 @@
+Turn this into a nose plugin http://nose.readthedocs.org/en/latest/plugins/writing.html
+
+Have it run the tests during the south migrate, but then yield the results
+during the "i'm a nose plugin" phase.
+
+
+http://nose.readthedocs.org/en/latest/plugins/interface.html#nose.plugins.base.Plugin
+http://nose.readthedocs.org/en/latest/plugins/doctests.html
